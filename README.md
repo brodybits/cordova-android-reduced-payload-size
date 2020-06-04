@@ -19,12 +19,16 @@
 #
 -->
 
-# Cordova Android
+# Cordova Android with reduced payload size
 
+to avoid memory issues on some Android devices
+
+<!--
 [![NPM](https://nodei.co/npm/cordova-android.png)](https://nodei.co/npm/cordova-android/)
 
 [![Node CI](https://github.com/apache/cordova-android/workflows/Node%20CI/badge.svg?branch=master)](https://github.com/apache/cordova-android/actions?query=branch%3Amaster)
 [![codecov.io](https://codecov.io/github/apache/cordova-android/coverage.svg?branch=master)](https://codecov.io/github/apache/cordova-android?branch=master)
+- -->
 
 Cordova Android is an Android application library that allows for Cordova-based projects to be built for the Android Platform. Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
 
